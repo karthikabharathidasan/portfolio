@@ -29,4 +29,8 @@ git clone https://github.com/karthikabharathidasan/portfolio.git
 npm install  
 npm start  
 
+Live Demo:https://wondrous-eclair-619ade.netlify.app/
+portfolio Screenshot:
+![portfolio](https://github.com/user-attachments/assets/30280fba-cbd8-48f4-9194-1f82ad508d8d)
+
 
